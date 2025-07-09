@@ -1,4 +1,3 @@
-# src/track.py
 import numpy as np
 from enum import Enum, auto
 from collections import deque
