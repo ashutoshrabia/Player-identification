@@ -1,5 +1,3 @@
-# src/reid_tracker.py
-
 import numpy as np
 from scipy.optimize import linear_sum_assignment
 from track import Track
