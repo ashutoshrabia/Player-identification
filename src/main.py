@@ -1,4 +1,3 @@
-# src/main.py
 import cv2
 import os
 from pathlib import Path
