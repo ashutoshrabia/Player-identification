@@ -86,6 +86,3 @@ project/
 * **Jersey cooldown**: Modify `dead_cooldown` to prevent ID reuse.
 * **Output threshold**: Set `output_thresh` to control minimum visible frames.
 
----
-
-Feel free to tweak parameters or replace modules (e.g., DeepSORT) to match your performance and latency needs. Good luck!
